@@ -1,4 +1,4 @@
-# This is the basic Angular project
+# This is the basic Angular project by :prince: [Jedidiah](https://github.com/JedidiahJohnNagarajan) ![](https://komarev.com/ghpvc/?username=JedidiahJohnNagarajan&color=blue)
 ## This is done to illustrate how angular works.
 
 ### To initialize
@@ -18,4 +18,4 @@ ng build
 ### ToDos
 ![image](https://user-images.githubusercontent.com/13598741/119195064-02ae6400-ba52-11eb-81b4-df76409bb5ad.png)
 
-#### :prince: [Jedidiah](https://github.com/JedidiahJohnNagarajan) ![](https://komarev.com/ghpvc/?username=JedidiahJohnNagarajan&color=blue)
+
