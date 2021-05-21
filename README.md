@@ -13,7 +13,7 @@ ng serve
 ng build
 ```
 ### About
-![image](https://user-images.githubusercontent.com/13598741/119195131-22458c80-ba52-11eb-97d8-388d9ae8325f.png)
+![image](https://user-images.githubusercontent.com/13598741/119195322-76507100-ba52-11eb-935c-7c8ff5ccfd1d.png)
 
 ### ToDos
 ![image](https://user-images.githubusercontent.com/13598741/119195064-02ae6400-ba52-11eb-81b4-df76409bb5ad.png)
